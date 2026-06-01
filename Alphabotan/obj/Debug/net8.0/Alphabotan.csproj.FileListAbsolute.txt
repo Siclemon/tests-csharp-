@@ -1,0 +1,15 @@
+C:\Users\sjeckert\code\tests-csharp-\Alphabotan\bin\Debug\net8.0\Alphabotan.exe
+C:\Users\sjeckert\code\tests-csharp-\Alphabotan\bin\Debug\net8.0\Alphabotan.deps.json
+C:\Users\sjeckert\code\tests-csharp-\Alphabotan\bin\Debug\net8.0\Alphabotan.runtimeconfig.json
+C:\Users\sjeckert\code\tests-csharp-\Alphabotan\bin\Debug\net8.0\Alphabotan.dll
+C:\Users\sjeckert\code\tests-csharp-\Alphabotan\bin\Debug\net8.0\Alphabotan.pdb
+C:\Users\sjeckert\code\tests-csharp-\Alphabotan\obj\Debug\net8.0\Alphabotan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sjeckert\code\tests-csharp-\Alphabotan\obj\Debug\net8.0\Alphabotan.AssemblyInfoInputs.cache
+C:\Users\sjeckert\code\tests-csharp-\Alphabotan\obj\Debug\net8.0\Alphabotan.AssemblyInfo.cs
+C:\Users\sjeckert\code\tests-csharp-\Alphabotan\obj\Debug\net8.0\Alphabotan.csproj.CoreCompileInputs.cache
+C:\Users\sjeckert\code\tests-csharp-\Alphabotan\obj\Debug\net8.0\Alphabotan.sourcelink.json
+C:\Users\sjeckert\code\tests-csharp-\Alphabotan\obj\Debug\net8.0\Alphabotan.dll
+C:\Users\sjeckert\code\tests-csharp-\Alphabotan\obj\Debug\net8.0\refint\Alphabotan.dll
+C:\Users\sjeckert\code\tests-csharp-\Alphabotan\obj\Debug\net8.0\Alphabotan.pdb
+C:\Users\sjeckert\code\tests-csharp-\Alphabotan\obj\Debug\net8.0\Alphabotan.genruntimeconfig.cache
+C:\Users\sjeckert\code\tests-csharp-\Alphabotan\obj\Debug\net8.0\ref\Alphabotan.dll
