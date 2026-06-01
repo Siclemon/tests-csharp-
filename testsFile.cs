@@ -1,0 +1,1 @@
+File.WriteAllText("caca.txt","prout prout j'ai fait caca");
