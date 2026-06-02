@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Alphabotan")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+33e35ad6043222040d2722fe21ecef9acab89740")]
 [assembly: System.Reflection.AssemblyProductAttribute("Alphabotan")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Alphabotan")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
