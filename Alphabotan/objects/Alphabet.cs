@@ -4,10 +4,12 @@ namespace Objects;
 
 public class Alphabet
 {
-    List<Letter> list {get; set;}
+    public string id {get;}
+    public List<Letter> list {get; set;}
 
-    public Alphabet(List<Letter> list)
+    public Alphabet(List<Letter> list, string id)
     {
         this.list = list;
+        this.id = id;
     }
 }

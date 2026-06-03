@@ -2,9 +2,9 @@ namespace Objects;
 
 public class Letter
 {
-    private int index {get;}
-    private string answer;
-    private string[] art {get;}
+    public int index {get;}
+    public string answer {get; set;}
+    public string[] art {get;}
 
     public Letter(int index, string answer, string[] art)
     {
